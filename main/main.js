@@ -19,7 +19,7 @@ module.exports = function main(data) {
         conlog.(obj.b);
         conlog.(obj.c);
 	}else{
-		break;
+		break   
 	}
   
 };
